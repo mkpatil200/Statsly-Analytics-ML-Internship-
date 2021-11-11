@@ -47,3 +47,5 @@ KNN
 ## Deployment 
 
 link: https://winequality-madhu.herokuapp.com/
+
+https://user-images.githubusercontent.com/85861395/141286204-26d60986-babb-4b32-a90f-154f4499dbfc.mp4
